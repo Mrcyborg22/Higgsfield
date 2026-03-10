@@ -1,0 +1,14 @@
+{
+  "name": "seedance-studio",
+  "version": "1.0.0",
+  "description": "Seedance 2.0 AI Video Studio - Clone Higgsfield AI",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site, no build needed'",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
